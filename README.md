@@ -27,6 +27,7 @@ Please :star: this repo to help us improve the quality.
 4. Open the ```Avoid_Blocks_Game.pde``` file.
 5. Run it :)
 
+
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
 If you find any issue just put it in the repository issue section, thank!
