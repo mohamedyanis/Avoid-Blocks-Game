@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-This simple game written with processing3.
+This simple game written with processing3.<br>
 How to play it? It's easy, just كove the can to avoid falling blocks.
 
 ## #100daysofcode
