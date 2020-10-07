@@ -21,11 +21,9 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 Please :star: this repo to help us improve the quality.
 
 ## Screenshots
-Begin           
-:---------------------:
-![screenshoot](screenshots/abg1.png)
-Game Over
-![screenshoot](screenshots/abg2.png)
+Begin           | Game Over
+:---------------------:|:------------------:
+![screenshoot](screenshots/abg1.png) | ![screenshoot](screenshots/abg2.png)
 
 ## Requirements
 * processing3
