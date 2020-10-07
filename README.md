@@ -3,7 +3,8 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This simple game written with processing3.<br>
-How to play it? It's easy, just move the can to avoid falling blocks.
+How to play it? It's easy, just move the can to avoid falling blocks.<br>
+Click <a href="https://processing.org/"> here </a> to read more about **Processing3**.
 
 
 ## #100daysofcode
@@ -20,7 +21,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 Please :star: this repo to help us improve the quality.
 
 ## Screenshots
-Home           | Calculation
+Begin           | Game Over
 :---------------------:|:------------------:
 ![screenshoot](screenshots/abg1.png) | ![screenshoot](screenshots/abg2.png)
 
