@@ -14,9 +14,15 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] Free & Open Source
 * [x] Very Easy to use
 * [x] No Internet connection required
+* [x] <del> Auto refresh
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
+
+## Screenshots
+Home           | Calculation
+:---------------------:|:------------------:
+![screenshoot](screenshots/abg1.png) | ![screenshoot](screenshots/abg2.png)
 
 ## Requirements
 * processing3
@@ -30,5 +36,6 @@ Please :star: this repo to help us improve the quality.
 
 
 ## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank!
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
+If you find any issue just put it in the repository issue section, thank!<br><br>
+.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
