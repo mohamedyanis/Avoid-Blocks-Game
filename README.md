@@ -35,6 +35,10 @@ Begin           | Game Over
 4. Open the ```Avoid_Blocks_Game.pde``` file.
 5. Run it :)
 
+## How To Play It
+It's easy!
+1. Just move the orange box to avoid the falling blocks.
+2. Use your mouse to move it.
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
